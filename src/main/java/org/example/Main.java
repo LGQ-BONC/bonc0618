@@ -19,6 +19,6 @@ public class Main {
         }
         
         System.out.println("========================");
-        System.out.println("0623");
+        System.out.println("0622");
     }
 }
